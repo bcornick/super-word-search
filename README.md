@@ -59,7 +59,7 @@ You're a college professor (for English and Topology, of all things), and your s
 As with the standard word search, you get an NxM grid of letters, and P words that are to be found in the grid. You also get a "mode" flag with one of the following values: WRAP, NO_WRAP. The flag value indicates whether words can wrap-around after they hit a boundary of the grid.
 Row numbers start at 0 (top row) and go to N-1 (bottom row). Column numbers start at 0 (leftmost column) and go to M-1 (rightmost column). Grid coordinates are specified as (row_num, column_num).
 
-Here is an example to illustrate the difference between WRAP and NO_WRAP: 012
+Example:
 --- 
 0|ABC 
 1|DEF 
