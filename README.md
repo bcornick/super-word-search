@@ -1,7 +1,7 @@
 # super-word-search
-Created a word searhc game using C++ in response to the challenge described in the README.
+Created a word search game using C++ in response to the challenge described in the README.
 
-This program was created by Brett Cornick.
+This program was created in 2020 by Brett Cornick.
 ___________________________________________________________________________________________
 
 BUILD AND RUN INSTRUCTIONS:
